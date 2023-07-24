@@ -1,0 +1,68 @@
+.block-events.e-schedule .template-wrap {
+  width: 100%;
+}
+
+.block-events.e-schedule .e-vertical-view .e-resource-cells {
+  height: 58px;
+}
+
+.block-events.e-schedule .e-timeline-view .e-resource-left-td,
+.block-events.e-schedule .e-timeline-month-view .e-resource-left-td {
+  width: 170px;
+}
+
+.block-events.e-schedule .e-resource-cells.e-child-node .employee-category,
+.block-events.e-schedule .e-resource-cells.e-child-node .employee-name {
+  padding: 5px
+}
+
+.block-events.e-schedule .employee-image {
+  width: 45px;
+  height: 40px;
+  float: left;
+  border-radius: 50%;
+  margin-right: 10px;
+  background-repeat: no-repeat;
+  background-size: 45px;
+}
+
+.block-events.e-schedule .employee-name {
+  font-size: 13px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.block-events.e-schedule .employee-designation {
+  font-size: 10px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: normal;
+}
+
+.block-events.e-schedule .template-wrap .employee-image.unsigned {
+  background-image: url('data:image/jpeg;base64,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');
+}
+.block-events.e-schedule .template-wrap .employee-image.ikram {
+  background-image: url('https://avatars.githubusercontent.com/u/57677370?v=4');
+}
+
+.block-events.e-schedule .template-wrap .employee-image.sheraz {
+  background-image: url('https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/320312708/original/a50ce28f48379314c7923ce5301f7950b3a3018c/build-modern-and-responsive-wordpress-website-design.png');
+}
+
+.block-events.e-schedule .template-wrap .employee-image.saqib {
+  background-image: url('https://ej2.syncfusion.com/react/demos/src/schedule/images/robson.png');
+}
+
+.block-events.e-schedule .template-wrap .employee-image.umar {
+  background-image: url('https://ej2.syncfusion.com/react/demos/src/schedule/images/laura.png');
+}
+
+.block-events.e-schedule .template-wrap .employee-image.anas {
+  background-image: url('https://ej2.syncfusion.com/react/demos/src/schedule/images/nancy.png');
+}
+
+.block-events.e-schedule .template-wrap .employee-image.zarar {
+  background-image: url('https://ej2.syncfusion.com/react/demos/src/schedule/images/margaret.png');
+}
